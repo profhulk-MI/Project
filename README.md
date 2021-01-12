@@ -16,4 +16,4 @@ This project resulted in Research Paper publication which was awarded Best Paper
 ![](images/g4.png)
 ![](images/g5.png)
 ![](images/g6.png)
-![](images/g7.png)
+
