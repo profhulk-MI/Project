@@ -9,3 +9,4 @@ This incurred huge economic losses and accelerate the degradation of equipment�
 To realize such intelligence, we modelled equipment’s specifics like Motor/ pump efficiencies, Heat generation, head and friction losses etc. and tried to get an overall idea of how and what kind of effect does the current load has on its health. We simulated this using a model based on Rule based Markov Chains using Bayesian nets and employed reinforcement learning to adaptively learn, as no two treatment plants are same. Rules were objectives to optimize.
 By this the controller would accomplish the duty and optimize durability of machine life and minimizing economic cost. Unfortunately, we couldn’t installed this in any plant due to lack of infrastructure but through pure simulation, we achieve a staggering improvement and an annual saving of 100 kW.
 This project resulted in Research Paper publication which was awarded Best Paper in 2018.
+![](images/filename g1.png)
